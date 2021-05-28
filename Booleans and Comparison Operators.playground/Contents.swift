@@ -1,4 +1,3 @@
-//: ## Episode 04: Challenge - Booleans & Comparison Operators
 
 /*:
  ## Challenge 1
